@@ -41,8 +41,6 @@ The Flight ticket booking app is composed of the following Features:
 
 * This version does not support dynamic seat data being stored from cloud.
 
-Integrated AI Chatbot:
-
 ![](documentationResources/aichatbot.png)
 ---
 
@@ -70,8 +68,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 The following software is required to be installed on your system:
 
-* Node 8.x
-* Npm 3.x
+* Node 
+* Npm 
 
 Type the following commands in the terminal to verify your node and npm versions
 
