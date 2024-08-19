@@ -51,7 +51,6 @@ The Flight ticket booking app is composed of the following Features:
 * [React](https://reactjs.org/) - A javascript library for building user interfaces
 * [Babel](https://babeljs.io/) - A transpiler for javascript
 * [Webpack](https://webpack.js.org/) - A module bundler
-* [SCSS](http://sass-lang.com/) - A css metalanguage
 * [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [Express js](http://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
@@ -86,7 +85,6 @@ Follow the following steps to get development environment running.
 * Install node modules #even though they are pre-installed run this command to check if they are up to date
 
    ```bash
-   cd SWADESHI AIRLINES
    cd frontend
    npm install
    cd..
