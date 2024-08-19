@@ -41,36 +41,6 @@ The Flight ticket booking app is composed of the following Features:
 
 * This version does not support dynamic seat data being stored from cloud.
 
-
-This project also demonstrates:
-
-* a typcial React project layout structure
-
-**Screenshots:**
-Landing Page:
-
-![](documentationResources/homepage.png)
-
-Signing In Page:
-
-![](documentationResources/login.png)
-
-Flight Selection Page:
-
-![](documentationResources/booking.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatselection.png)
-
-Payment & Confirmation Page:
-
-![](documentationResources/payment.png)
-
-Ticket Cancellation Page:
-
-![](documentationResources/cancellation.png)
-
 Integrated AI Chatbot:
 
 ![](documentationResources/aichatbot.png)
